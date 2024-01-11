@@ -1,3 +1,3 @@
 # Charles Zhang's Unreal Engine Stuff
 
-Includes study notes (gradually migrating into P9 CG) and non-project specific public repos.
+Includes study notes and non-project specific public repos (templates, plugins, etc.).
